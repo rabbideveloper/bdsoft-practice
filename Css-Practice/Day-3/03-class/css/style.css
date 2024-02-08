@@ -1,0 +1,45 @@
+.group-1{
+    background: url("../image/ee.jpg");
+    width: 800px;
+    height: 500px;
+    background-size: cover;
+    border: 10px solid green;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.group-2{
+    background-image: linear-gradient(to right, green, red);
+    width: 800px;
+    height: 500px;
+    background-size: cover;
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: tomato;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+.box p{
+    margin: 0;
+}
+
+.box-image{
+    width: 600px;
+    background-color: tomato;
+    margin-bottom: 60px;
+    padding: 20px;
+}
+.box-image img{
+    width: 90%;
+}
+
+
+
+
+
+

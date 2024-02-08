@@ -1,0 +1,19 @@
+#para1{
+    color: red;
+}
+
+#para2{
+    color: green;
+    text-align: right;
+}
+
+.text-right{
+    text-align: right;
+    color: brown;
+}
+
+.border{
+    border: 10px dashed green;
+    background: #000;
+    color: white;
+}

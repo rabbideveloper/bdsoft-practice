@@ -1,0 +1,128 @@
+/* class 1 assignment-css */
+
+p{
+    color: tomato;
+}
+
+/* class 2 assignment-css */
+
+#para1{
+    color: red;
+}
+
+#para2{
+    color: green;
+    text-align: right;
+}
+
+.text-right{
+    text-align: right;
+    color: brown;
+}
+
+.border{
+    border: 10px dashed green;
+    background: #000;
+    color: white;
+}
+
+/* class 3 assignment-css */
+
+.group-1{
+    background: url("image/ee.jpg");
+    width: 800px;
+    height: 500px;
+    background-size: cover;
+    border: 10px solid green;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.group-2{
+    background-image: linear-gradient(to right, green, red);
+    width: 800px;
+    height: 500px;
+    background-size: cover;
+    border: 10px solid green;
+    border-radius: 10px;
+}
+
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: tomato;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+.box p{
+    margin: 0;
+}
+
+.box-image{
+    width: 600px;
+    background-color: tomato;
+    margin-bottom: 60px;
+    padding: 20px;
+}
+.box-image img{
+    width: 90%;
+}
+
+
+/* class 4 css */
+.box-1{
+    width: 600px;
+    padding: 20px;
+    background: gray;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+.box-1 img{
+    width: 100%;
+}
+.box-2{
+    width: 600px;
+    padding: 20px;
+    background: tomato;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 50px;
+    box-shadow: -10px -10px 10px black;
+    margin-bottom: 100px;
+}
+.box-2 img{
+    width: 100%;
+}
+
+/* login form design css */
+
+.login-form{
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    padding: 32px;
+    border-radius: 7px;
+    margin-bottom: 100px;
+}
+.login-form h2{
+    font-size: 32px;
+    padding: 15px 0;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background-color: tomato;
+}
+.login-form input{
+    width: 100%;
+    font-size: 22px;
+    padding: 10px 0;
+    margin: 5px 0;
+}
+.login-form button{
+    width: 100%;
+    padding: 10px 0;
+    font-size: 22px;
+    cursor: pointer;
+    background: lightgreen;
+}
