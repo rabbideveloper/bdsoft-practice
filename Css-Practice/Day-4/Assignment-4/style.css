@@ -1,0 +1,98 @@
+/* class 3 css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box-class-3 {
+    width: 500px;
+    border: 1px solid green;
+}
+
+.box-class-3 img {
+    /*width: 100%;*/
+    max-width: 100%;
+}
+
+.box-2-class-3 {
+    width: 400px;
+    border: 1px solid aquamarine;
+    overflow: hidden;
+}
+
+.box-2-class-3 p {
+    white-space: nowrap;
+}
+
+/* menu css*/
+
+.nav-menu {
+    background: #9b59b6;
+    text-align: center;
+}
+
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 12px;
+}
+
+/* class 1 css */
+
+
+h1 {
+    font-size: 40px;
+    /*text-decoration: line-through;*/
+    text-decoration-color: brown;
+    text-transform: uppercase;
+    text-shadow: 3px 4px 1px green;
+}
+
+.box-class-1 {
+    width: 400px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+.box-class-1 p {
+    line-height: 21px;
+}
+
+/* class 02 */
+
+.table {
+    border: 1px solid rgba(169, 164, 164, 0.68);
+    width: 800px;
+}
+
+.table tr {
+    text-align: center;
+}
+
+.table th,
+.table td {
+    border: 1px solid rgba(169, 164, 164, 0.68);
+}
+
+
+/* class -4 */
+img {
+    position: absolute;
+    right: 30%;
+}
+
+.box-class-4 {
+    width: 1000px;
+    height: 500px;
+    border: 2px solid gray;
+    position: relative;
+}
+
+.box-class-4 h1 {
+    position: absolute;
+    right: 0;
+}

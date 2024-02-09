@@ -1,0 +1,19 @@
+h1 {
+    font-size: 40px;
+    /*text-decoration: line-through;*/
+    text-decoration-color: brown;
+    text-transform: uppercase;
+    text-shadow: 3px 4px 1px green;
+}
+
+.box-class-1 {
+    width: 400px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
+
+.box-class-1 p {
+    line-height: 21px;
+}

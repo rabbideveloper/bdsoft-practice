@@ -1,0 +1,15 @@
+img{
+    position: absolute;
+    right: 30%;
+}
+.box-class-4 {
+    width: 1000px;
+    height: 500px;
+    border: 2px solid gray;
+    position: relative;
+}
+
+.box-class-4 h1{
+    position: absolute;
+    right: 0;
+}
